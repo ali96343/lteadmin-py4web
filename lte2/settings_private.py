@@ -19,13 +19,13 @@ MEMCACHE_CLIENTS = ['127.0.0.1:11211']
 REDIS_SERVER = 'localhost:6379'
 
 # single sign on Google (will be used if provided)
-OAUTH2GOOGLE_CLIENT_ID = '940143574663-rgvq6gncpcpbt88vvr9niequ7qovjhrl.apps.googleusercontent.com'
-OAUTH2GOOGLE_CLIENT_SECRET = 'fVx5E1yZjZB5hlE9iMPZXVP9'
+OAUTH2GOOGLE_CLIENT_ID = ''
+OAUTH2GOOGLE_CLIENT_SECRET = ''
 
 
 # single sign on Facebook (will be used if provided)
-OAUTH2FACEBOOK_CLIENT_ID = '141951355712'
-OAUTH2FACEBOOK_CLIENT_SECRET = 'df2d3a6380e112b482e2a369524405ef'
+OAUTH2FACEBOOK_CLIENT_ID = ''
+OAUTH2FACEBOOK_CLIENT_SECRET = ''
 
 # i18n settings
 T_FOLDER = os.path.join(APP_FOLDER, 'translations')
