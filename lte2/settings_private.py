@@ -19,7 +19,7 @@ MEMCACHE_CLIENTS = ['127.0.0.1:11211']
 REDIS_SERVER = 'localhost:6379'
 
 # single sign on Google (will be used if provided)
-OAUTH2GOOGLE_CLIENT_ID = ''
+OAUTH2GOOGLE_CLIENT_ID = '' 
 OAUTH2GOOGLE_CLIENT_SECRET = ''
 
 
